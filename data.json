@@ -1,0 +1,66 @@
+{
+	"adj": [
+		"croisée",
+		"sémio-linguistique",
+		"métaphorique",
+		"numérique",
+		"critique",
+		"ambiguë",
+		"social"
+	],
+	"verb": [
+		"Regarder",
+		"Relire",
+		"Explorer",
+		"Redécouvrir",
+		"Exploiter",
+		"Repenser"
+	],
+	"nom1": [
+		"une archéologie",
+		"une étude",
+		"une anthropologie",
+		"un débat",
+		"un nouveau paradigme",
+		"une sociologie",
+		"une maïeutique"
+	],
+	"monde": [
+		"du web social",
+		"du web 3.0",
+		"du Web (1993-1997)",
+		"de l'internet des objets",
+		"du big data",
+		"de l'intelligence artificielle",
+		"du transhumanisme"
+	],
+	"auteur": [
+		"Simondon",
+		"Stiegler",
+		"Foucault",
+		"Watzlavick",
+		"Latour", 
+		"Rouvroy",
+		"Illich", 
+		"Deleuze",
+		"Paul Otlet"
+	],
+	"mot2": [
+		"des principes de l'hypertexte",
+		"des littératies informationnelles ",
+		"des réseaux sociaux numérique",
+		"des ingénieries de la connaissance",
+		"des dispositifs de médiation",
+		"du transmedia",
+               	"des objets techniques de formation",
+		"des affordances"
+	],
+	"temps": [
+		"au tournant",
+		"à l'heure", 
+		"à l'aube"
+	],
+	"origin": [
+		"#verb# #auteur# #temps# #monde#: pour #nom1# #adj# #mot2#. \\#BotInfoCom "
+	]
+}
